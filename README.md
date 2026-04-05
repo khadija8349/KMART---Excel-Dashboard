@@ -68,4 +68,4 @@ It includes data cleaning, transformation, analysis, and an interactive dashboar
 
 ## 👩‍💻 Author
 **Khadija**  
-Data Analyst | Excel • SQL • Python  
+Health AI Researcher
