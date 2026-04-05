@@ -58,7 +58,7 @@ Customer Segment Analysis
 
 Interactive filters (Slicers)
 
-🔍 Key Insights (Examples)
+🔍 Key Insights
 Sales peak during holiday months
 
 Region X contributes the highest revenue
@@ -67,7 +67,6 @@ Product Category Y performs best
 
 Customer Segment Z shows strong repeat purchases
 
-(You can update these based on your actual findings.)
 
 📦 How to Use This Project
 Download the Final Solution Excel file
