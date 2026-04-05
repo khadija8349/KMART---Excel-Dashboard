@@ -1,71 +1,82 @@
-# 🛒 KMART Sales Dashboard (Excel Project)
+🛒 KMART Sales Dashboard (Excel Project)
+📌 Problem Statement
+Retail businesses like Kmart generate large volumes of sales data across stores, regions, and channels. This self‑initiated project analyzes that raw sales data to uncover trends, identify high‑performing areas, and build an interactive Excel dashboard that supports data‑driven decision‑making. The goal is to transform unstructured data into clear, actionable insights for strategic planning.
 
-This project is a complete Excel-based Sales Dashboard created using the KMART dataset.  
-It includes data cleaning, transformation, analysis, and an interactive dashboard for business insights.
+🎯 Project Objectives
+Clean and prepare the raw sales dataset
 
----
+Build pivot tables for dynamic sales insights
 
-## 📁 Project Files
-- **KMART - Sales Dashboard - Data.xlsx**  
-  Contains the raw dataset used for cleaning and analysis.
+Create an interactive Excel dashboard for business decision‑making
 
-- **KMART - Sales Dashboard - Final Solution.xlsx**  
-  Contains the final cleaned dataset, pivot tables, and the interactive dashboard.
+Analyze sales performance across:
 
----
+Products
 
-## 🎯 Project Objectives
-- Clean and prepare the raw sales dataset  
-- Build pivot tables for sales insights  
-- Create an interactive dashboard for business decision-making  
-- Analyze sales performance across:
-  - Products  
-  - Regions  
-  - Months  
-  - Customer segments  
+Regions
 
----
+Months
 
-## 🛠️ Tools & Techniques Used
-### **Excel Skills**
-- Data Cleaning  
-- Pivot Tables  
-- Pivot Charts  
-- Slicers  
-- Conditional Formatting  
-- Dashboard Design  
-- SUMIFS, COUNTIFS, IF, VLOOKUP  
+Customer segments
 
----
+📁 Project Files
+KMART – Sales Dashboard – Data.xlsx  
+Contains the raw dataset used for cleaning and analysis.
 
-## 📊 Dashboard Features
-- Total Sales Overview  
-- Monthly Sales Trend  
-- Top‑Selling Products  
-- Sales by Region  
-- Customer Segment Analysis  
-- Interactive filters (Slicers)
+KMART – Sales Dashboard – Final Solution.xlsx  
+Contains the cleaned dataset, pivot tables, and the interactive dashboard.
 
----
+🛠️ Tools & Techniques Used
+Excel Skills
+Data Cleaning
 
-## 🔍 Key Insights (Examples)
-- Sales peak during holiday months  
-- Region X contributes the highest revenue  
-- Product Category Y is the top performer  
-- Customer Segment Z shows strong repeat purchases  
+Data Transformation
 
-*(You can update these based on your actual findings.)*
+Pivot Tables
 
----
+Pivot Charts
 
-## 📦 How to Use This Project
-1. Download the **Final Solution** Excel file  
-2. Open in Microsoft Excel  
-3. Use slicers to interact with the dashboard  
-4. Explore pivot tables for deeper insights  
+Slicers
 
----
+Conditional Formatting
 
-## 👩‍💻 Author
-**Khadija**  
+Dashboard Design
+
+SUMIFS, COUNTIFS, IF, VLOOKUP
+
+📊 Dashboard Features
+Total Sales Overview
+
+Monthly Sales Trend
+
+Top‑Selling Products
+
+Sales by Region
+
+Customer Segment Analysis
+
+Interactive filters (Slicers)
+
+🔍 Key Insights (Examples)
+Sales peak during holiday months
+
+Region X contributes the highest revenue
+
+Product Category Y performs best
+
+Customer Segment Z shows strong repeat purchases
+
+(You can update these based on your actual findings.)
+
+📦 How to Use This Project
+Download the Final Solution Excel file
+
+Open in Microsoft Excel
+
+Use slicers to interact with the dashboard
+
+Explore pivot tables for deeper insights
+
+👩‍💻 Author
+Khadija  
 Health AI Researcher
