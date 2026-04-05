@@ -1,4 +1,5 @@
 🛒 KMART Sales Dashboard (Excel Project)
+
 📌 Problem Statement
 Retail businesses like Kmart generate large volumes of sales data across stores, regions, and channels. This self‑initiated project analyzes that raw sales data to uncover trends, identify high‑performing areas, and build an interactive Excel dashboard that supports data‑driven decision‑making. The goal is to transform unstructured data into clear, actionable insights for strategic planning.
 
